@@ -1,0 +1,30 @@
+{
+  "name": "discord-matrix-bridge",
+  "version": "1.0.0",
+  "description": "A Matrix Bridge for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzai/Discord-Matrix-Bridge.git"
+  },
+  "keywords": [
+    "matrix",
+    "discord",
+    "bridge"
+  ],
+  "author": "kuzai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuzai/Discord-Matrix-Bridge/issues"
+  },
+  "homepage": "https://github.com/kuzai/Discord-Matrix-Bridge#readme",
+  "dependencies": {
+    "@types/request": "^2.48.4",
+    "discord.js": "^11.5.1",
+    "matrix-appservice-bridge": "^1.11.1",
+    "request": "^2.88.0"
+  }
+}

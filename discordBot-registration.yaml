@@ -1,0 +1,16 @@
+id: 0cd1bb74e4c44b09160e785bbfbeb85ea253d87fb713fcfb4212056df93c018d
+hs_token: 2367262448ca6ce7f7b51ce56f9c0e37dc913217389d9841c975a3c087c66ccc
+as_token: 612b1dfa082dcbdceaaae10c621a3257f21971e02b7ab30679f648929dc5cf68
+namespaces:
+  users:
+    - exclusive: true
+      regex: '@discord_.*'
+  aliases:
+    - exclusive: true
+      regex: '#discord_.*'
+  rooms: []
+url: 'http://localhost:9000'
+sender_localpart: discord_
+rate_limited: false
+protocols:
+  - discord
