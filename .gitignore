@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+#yaml bot
+discordBot-registration.yaml
